@@ -118,7 +118,7 @@ body{
     list-style: none;
     background-color: transparent;
     text-decoration: none;
-    height: 90%;
+    height: 130%;
 }
 #searchHistory a{
     background-color: var(--grisClaro);
